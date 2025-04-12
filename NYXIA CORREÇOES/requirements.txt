@@ -1,8 +1,0 @@
-transformers
-torch
-langchain
-python-dotenv
-colorama
-tqdm
-textblob
-rich
